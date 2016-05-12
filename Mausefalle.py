@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Mauseffalle or Folow that mouse
+Written by EBG
+The MIT License (MIT)
+Copyright (c) 2016 Evan B. Goldstein
 
 die rolls
 1 nothing
